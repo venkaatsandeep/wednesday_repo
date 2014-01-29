@@ -1,5 +1,8 @@
 Hello How are you?
-1) I will create this as a fresh repository
+1) I will create this as a fresh repository from webpage
+b) git remote origin1 <url>
+c) git pull .... For any updates // If you do not follow this step, it will not allow you to do gitpush.. since the content is out of sync
+4) git push origin1
 2) Add this to repo tooling
 3) Make changes afte  syncing this to Another location, "XY".
 4) finally .. update tooling repo and see if you can see changes done @ "XY"
