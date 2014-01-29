@@ -1,0 +1,4 @@
+1)git submodule add https://github.com/venkaatsandeep/tooling.git
+
+2)git commit -m "Add tooling to my wednesday repo"
+3)git push origin1
